@@ -1,1 +1,31 @@
-
+{
+	"posts": [
+		{
+			"name": "college",
+			"url": "./Images/college.png",
+			"info": "image of college",
+			"uploadedDate": "2022-01-04"
+		},
+		{
+			"name": "Work wordArt",
+			"url": "./Images/Work2.png",
+			"info": "another image of work",
+			"uploadedDate": "2022-01-04"
+		},
+		{
+			"name": "Work wordArt",
+			"url": "./Images/Work3.png",
+			"info": "image of work",
+			"uploadedDate": "2022-01-04"
+		},
+		{
+			"name": "School",
+			"url": "./Images/School.png",
+			"info": "image of school",
+			"uploadedDate": "2022-01-04"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
